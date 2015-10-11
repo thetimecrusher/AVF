@@ -1,0 +1,183 @@
+
+10/10/2015, 7:33:46 PM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.11
+  Architecture                = 64bit
+  # CPUs                      = 8
+  Memory                      = 17179869184
+
+Node.js
+  Node.js Version             = 0.12.4
+  npm Version                 = 2.10.1
+
+Titanium CLI
+  CLI Version                 = 5.0.4
+
+Titanium SDK
+  SDK Version                 = 5.0.2.GA
+  SDK Path                    = /Users/keithfawcett/Library/Application Support/Titanium/mobilesdk/osx/5.0.2.GA
+  Target Platform             = iphone
+
+Command
+  /usr/local/bin/node /Users/keithfawcett/.appcelerator/install/5.0.2/package/node_modules/appc-cli-titanium/node_modules/titanium/bin/titanium build --platform ios --log-level trace --sdk 5.0.2.GA --project-dir /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project --target simulator --ios-version 9.0 --device-family universal --deploy-type development --sim-type ipad --sim-version 9.0 --device-id 2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 50564 --plugin-paths /Users/keithfawcett/.appcelerator/install/5.0.2/package/node_modules --config-file /var/folders/tt/7zcvt9411vl79s1rckln15dm0000gn/T/build-1444530823232.json --no-banner
+
+[TRACE]  [ioslib] Validating iOS Simulator UDID 2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C
+[TRACE]  [ioslib] Found iOS Simulator UDID 2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C
+[TRACE]  [ioslib] Selected iOS Simulator: iPad Air 2
+[TRACE]  [ioslib]   UDID    = 2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C
+[TRACE]  [ioslib]   iOS     = 9.0
+[TRACE]  [ioslib] Autoselected Xcode: 7.0.1
+[INFO]   Symlinked files not supported with iOS 9.0 simulator, forcing files to be copied
+[DEBUG]  Detecting modules in /Users/keithfawcett/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: com.appcelerator.apm 1.1.1 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected android module: facebook 3.0.3 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/facebook/3.0.3
+[DEBUG]  Detected android module: facebook 4.0.3 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/facebook/4.0.3
+[DEBUG]  Detected android module: facebook 4.0.5 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/facebook/4.0.5
+[DEBUG]  Detected android module: ti.cloudpush 3.3.7 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.7
+[DEBUG]  Detected android module: ti.cloudpush 3.3.8 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.8
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.0
+[DEBUG]  Detected android module: ti.map 2.2.3 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/ti.map/2.2.3
+[DEBUG]  Detected android module: ti.map 2.3.0 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/ti.map/2.3.0
+[DEBUG]  Detected android module: ti.map 2.3.1 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/ti.map/2.3.1
+[DEBUG]  Detected android module: ti.map 2.3.3 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/android/ti.map/2.3.3
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.7 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.7
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.8 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.8
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9
+[DEBUG]  Detected iphone module: com.appcelerator.apm 1.1.1 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.0 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.0
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.1 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.1
+[DEBUG]  Detected iphone module: facebook 3.2.0 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/facebook/3.2.0
+[DEBUG]  Detected iphone module: facebook 4.0.3 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/facebook/4.0.3
+[DEBUG]  Detected iphone module: facebook 4.0.5 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/facebook/4.0.5
+[DEBUG]  Detected iphone module: ti.coremotion 1.1.0 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.1.0
+[DEBUG]  Detected iphone module: ti.map 2.2.0 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.0
+[DEBUG]  Detected iphone module: ti.map 2.2.2 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.2
+[DEBUG]  Detected iphone module: ti.map 2.3.1 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/ti.map/2.3.1
+[DEBUG]  Detected iphone module: ti.map 2.4.1 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/ti.map/2.4.1
+[DEBUG]  Detected iphone module: ti.touchid 1.1.0 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.1.0
+[DEBUG]  Detected iphone module: ti.touchid 1.2.0 @ /Users/keithfawcett/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.2.0
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK iOS directory: /Users/keithfawcett/Library/Application Support/Titanium/mobilesdk/osx/5.0.2.GA/iphone
+[INFO]   Deploy type: development
+[INFO]   Building for target: simulator
+[INFO]   Building using iOS SDK: 9.0
+[INFO]   Building for iOS Simulator: iPad Air 2
+[DEBUG]  UDID: 2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C
+[DEBUG]  Simulator type: ipad
+[DEBUG]  Simulator version: 9.0
+[INFO]   Building for device family: universal
+[DEBUG]  Setting Xcode target to Debug
+[DEBUG]  Setting Xcode build OS to iphonesimulator
+[DEBUG]  Xcode installation: /Applications/Xcode.app/Contents/Developer
+[DEBUG]  iOS WWDR certificate: installed
+[INFO]   Minimum iOS version: 7.1
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Set to copy files instead of symlinking
+[INFO]   Initializing the build directory
+[TRACE]  offline build file /var/folders/tt/7zcvt9411vl79s1rckln15dm0000gn/T/build-13b40cb8b3647acdb1a743a8ba8f1a7067c9c81e.json
+[TRACE]  online 1
+[TRACE]  optimizing build, last build was 3072.429 sec ago
+[INFO]   Creating Xcode project
+[TRACE]  Removing pre-compile phase
+[TRACE]  No native module libraries to add
+[TRACE]  No extensions to add
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/keith_fawcett_WK2_Project.xcodeproj/project.pbxproj
+[INFO]   Creating Entitlements.plist
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/keith_fawcett_WK2_Project.entitlements
+[INFO]   Creating Info.plist
+[INFO]   Disabling ATS
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Info.plist
+[INFO]   Creating main.m
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/main.m
+[INFO]   Creating Xcode config files
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/project.xcconfig
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/module.xcconfig
+[INFO]   Copying Titanium libraries
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/lib/libTiCore.a
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/lib/libtiverify.a
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/lib/libti_ios_debugger.a
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/lib/libti_ios_profiler.a
+[INFO]   Copying Titanium iOS files
+[TRACE]  Skipping Classes/ApplicationRouting.m, it'll be processed later
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/keith_fawcett_WK2_Project_Prefix.pch
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/keith_fawcett_WK2_Project.xcodeproj/xcshareddata/xcschemes/keith_fawcett_WK2_Project.xcscheme
+[INFO]   Creating debugger and profiler plists
+[DEBUG]  Skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/debugger.plist
+[DEBUG]  Skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/profiler.plist
+[INFO]   Analyzing Resources directory
+[INFO]   Analyzing platform files
+[INFO]   Analyzing module files
+[INFO]   Analyzing localized launch images
+[INFO]   Analyzing CommonJS modules
+[INFO]   Creating asset catalog
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/Contents.json
+[INFO]   Creating app icon set
+[TRACE]  Found generated 29x29 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small.png
+[TRACE]  Found generated 58x58 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@2x.png
+[TRACE]  Found generated 87x87 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@3x.png
+[TRACE]  Found generated 40x40 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40.png
+[TRACE]  Found generated 80x80 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@2x.png
+[TRACE]  Found generated 120x120 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@3x.png
+[TRACE]  Found generated 120x120 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@2x.png
+[TRACE]  Found generated 180x180 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@3x.png
+[TRACE]  Found generated 76x76 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-76.png
+[TRACE]  Found generated 152x152 app icon: /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-76@2x.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json
+[INFO]   Creating launch image set
+[DEBUG]  Unsupported launch image Resources/iphone/Default.png, skipping
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Contents.json
+[DEBUG]  Copying resources
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/KS_nav_ui.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/KS_nav_views.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/image/cloud.jpg
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
+[DEBUG]  Copying CSS files
+[INFO]   Processing JavaScript files
+[DEBUG]  Overwriting /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/Resources/api.js => /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/api.js
+[DEBUG]  Overwriting /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/Resources/app.js => /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/app.js
+[DEBUG]  Overwriting /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/Resources/geo.js => /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/geo.js
+[DEBUG]  Overwriting /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/Resources/sql.js => /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/sql.js
+[DEBUG]  Overwriting /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/Resources/ui.js => /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/ui.js
+[INFO]   Writing app properties
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/_app_props_.json
+[DEBUG]  Using default application routing
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Classes/ApplicationRouting.m
+[INFO]   Writing i18n files
+[DEBUG]  No i18n files to process
+[INFO]   Processing Titanium symbols
+[DEBUG]  Processing Titanium namespace resources
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/modules/ui/images/badge.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/modules/ui/images/closeButton.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app/modules/ui/images/photoDefault.png
+[TRACE]  No change, skipping /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/Classes/defines.h
+[INFO]   Removing files
+[DEBUG]  Removing empty directories
+[INFO]   Skipping xcodebuild
+[INFO]   Finished building the application in 1s 561ms
+[INFO]   Launching iOS Simulator
+[TRACE]  [ioslib] Selected iOS Simulator: iPad Air 2
+[TRACE]  [ioslib]   UDID    = 2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C
+[TRACE]  [ioslib]   iOS     = 9.0
+[TRACE]  [ioslib] Autoselected Xcode: 7.0.1
+[TRACE]  [ioslib] Removing old log file: /Users/keithfawcett/Library/Developer/CoreSimulator/Devices/2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C/data/Containers/Data/Application/A447EB23-6F1E-4609-9236-9162D9963586/Documents/d8adf87e-9f24-47c9-9eee-1231f3e36db9.log
+[TRACE]  [ioslib] iPad Air 2 Simulator already running with the correct udid
+[TRACE]  [ioslib] Tailing iPad Air 2 Simulator system log: /Users/keithfawcett/Library/Logs/CoreSimulator/2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C/system.log
+[TRACE]  [ioslib] Running: osascript "/Users/keithfawcett/Library/Application Support/Titanium/mobilesdk/osx/5.0.2.GA/node_modules/ioslib/lib/sim_focus.scpt" "Simulator"
+[TRACE]  [ioslib] iPad Air 2 Simulator successfully focused
+[TRACE]  [ioslib] Running: /Applications/Xcode.app/Contents/Developer/usr/bin/simctl install 2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C /Users/keithfawcett/Desktop/Classes/AVF/keith_fawcett_WK2_Project/build/iphone/build/Products/Debug-iphonesimulator/keith_fawcett_WK2_Project.app
+[TRACE]  [ioslib] App installed
+[TRACE]  [ioslib] Running: /Applications/Xcode.app/Contents/Developer/usr/bin/simctl launch 2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C con.keith
+[TRACE]  [ioslib] App launched
+[TRACE]  [ioslib] Found application log file: /Users/keithfawcett/Library/Developer/CoreSimulator/Devices/2F8ED6B8-97E8-42C2-B768-584A6A0FDE0C/data/Containers/Data/Application/FF750807-94F2-4422-AB21-941BCEE703AE/Documents/d8adf87e-9f24-47c9-9eee-1231f3e36db9.log
